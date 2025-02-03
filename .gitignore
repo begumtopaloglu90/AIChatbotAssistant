@@ -2,3 +2,4 @@ venv
 .gradio
 flagged
 modelFolder
+.DS_Store
